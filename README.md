@@ -9,5 +9,9 @@ To install the latest development version of PRAW run the following instead:
 ```
 pip install --upgrade https://github.com/praw-dev/praw/archive/master.zip
 ```
+# Usage
+```
+python3 reddit-scraper.py
+```
 # Reference
 - GeeksforGeeks
