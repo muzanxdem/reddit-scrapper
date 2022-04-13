@@ -7,7 +7,7 @@ reddit_read_only = praw.Reddit(client_id="",         # your client id
                                user_agent="")        # your user agent
 
 # URL of the post
-url = "https://www.reddit.com/r/nextfuckinglevel/comments/u1yrwd/play_was_stopped_during_augsburg_vs_mainz_05_so/"
+url = "" #reddit post URL
 
 # Creating a submission object
 submission = reddit_read_only.submission(url=url)
