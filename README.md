@@ -11,7 +11,7 @@ pip install --upgrade https://github.com/praw-dev/praw/archive/master.zip
 ```
 # Usage
 ```
-python3 reddit-scraper.py
+python3 reddit.py
 ```
 # Reference
 - GeeksforGeeks
